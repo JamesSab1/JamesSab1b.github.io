@@ -1,0 +1,22 @@
+background-color: #f6deb2;
+
+background-color: #26619c;  blue
+
+http://www.freebiesgallery.com/wp-content/uploads/2013/09/paper-background-4.jpg
+
+video embedded
+<p>
+		      <video src="./videos/brian-dogs.mp4" width="160" height="120" controls>
+                Video not supported
+              </video>
+		  </p>
+		  <p>
+		      <video src="./videos/brian-boys.mp4" width="160" height="120" controls>
+                Video not supported
+              </video>
+		  </p>
+		  <p>
+		      <video src="./videos/brian-beckham.mp4" width="160" height="120" controls>
+                Video not supported
+              </video>
+		  </p>

@@ -1,0 +1,85 @@
+body {
+	background-color: #bcb2f6;
+	background-image: url(../images/bodybackground.jpg);
+	font-family: 'Dancing Script', Tangerine, cursive;
+	
+	
+}
+
+header {
+	
+	font-family: 'Dancing Script', Tangerine, cursive;
+	
+}
+
+.jumbotron {
+	
+	background-image: url("../images/background2.png"), url("https://inspirationhut.net/wp-content/uploads/2012/11/Paper-Texture-.jpg");
+	background-color: #f6deb2;
+	height: 600px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	font-family: 'Dancing Script', Tangerine, cursive;
+	
+	
+	
+	
+}
+
+img {
+	position: relative;
+	top: 50px;
+	display: inline;
+	border: 1px;
+	padding: 1px;
+	margin: 1px;
+	
+}
+
+#brianlist {
+	
+	position: relative;
+	bottom: 300px;
+	left: 900px;
+	display: inline;
+	border: 1px;
+	padding: 1px;
+	margin: 1px;
+	
+}
+	
+a {
+	color: black;
+
+}
+
+
+#gt {
+	position:relative;
+	top:1px;
+	
+}
+	
+.disabled {
+   pointer-events: none;
+   cursor: default;
+}
+
+#horse {
+	position:inline;
+	top: -50px;
+	border: 1px solid black;
+	
+}
+
+#bric {
+	position:inline;
+	top: 20px;
+	border: 1px solid black;
+	
+}
+
+#back {
+	border-radius: 0px;
+	
+}
